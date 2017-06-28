@@ -22,6 +22,10 @@ matrix:
       elixir: 1.4.4
     - otp_release: 20.0-rc1
       elixir: 1.4.5
+    - otp_release: 20.0
+      elixir: 1.4.4
+    - otp_release: 20.0
+      elixir: 1.4.5
 addons:
   artifacts:
     debug: true
